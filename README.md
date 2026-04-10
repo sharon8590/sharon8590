@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Sharon_Biju-Full_Stack_Developer-blue?style=for-the-badge&logo=linkedin" alt="Sharon Biju">
+  <img src="https://img.shields.io/badge/Sharon_Biju-Developer-blue?style=for-the-badge&logo=linkedin" alt="Sharon Biju">
   <img src="https://img.shields.io/badge/BTech-Computer_Science-red?style=for-the-badge&logo=google-chrome" alt="BTech">
   <img src="https://img.shields.io/badge/3%2B_Years-Experience-brightgreen?style=for-the-badge" alt="Experience">
 </div>
